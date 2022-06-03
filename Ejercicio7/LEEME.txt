@@ -1,0 +1,17 @@
+Proceso de Compilación.
+
+Este ejercicio se realizó en Linux Ubuntu y puede que se necesite de una diferente ejecución
+en otro sistema operativo para que funcione.
+
+Compilación y Ejecución:
+-Debea situarse en el directorio donde esta el archivo Ejercicio7.l
+Y escribir en consola:
+$ flex Ejercicio7.l (o también se puede hcer así: lex Ejercicio7.l)
+$ gcc lex.yy.c -ll
+$ ./a.out < encriptado.txt  /* Aquí resalto que hay que pasarle el reporte que se genera del Ejercicio6 */
+
+Como ya se está entregando todo funcionando y si no se le hace ningun cambio, entonces,
+lo unico que tiene que hacer es ejcutarlo con la ultima instrucción:
+$ ./a.out < encriptado.txt
+
+Y eso es todo, al final tendra el reporte en el archivo "desencriptado.txt".

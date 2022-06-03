@@ -1,0 +1,5 @@
+Núm. Palabras: 154
+Núm. Palabras que Inician con Mayusculas: 65
+Palabras de Mayor Longitud: 1
+Ocurrencia de la palabra amor: 84901
+Ocurrencia de la palabra odio: 56082

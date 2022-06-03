@@ -1,0 +1,17 @@
+Proceso de Compilación.
+
+Este ejercicio se realizó en Linux Ubuntu y puede que se necesite de una diferente ejecución
+en otro sistema operativo para que funcione.
+
+Compilación y Ejecución:
+-Debea situarse en el directorio donde esta el archivo Ejercicio8.l
+Y escribir en consola:
+$ flex Ejercicio8.l (o también se puede hcer así: lex Ejercicio8.l)
+$ gcc lex.yy.c -ll
+$ ./a.out < cien_anios_soledad.txt
+
+Como ya se está entregando todo funcionando y si no se le hace ningun cambio, entonces,
+lo unico que tiene que hacer es ejcutarlo con la ultima instrucción:
+$ ./a.out < cien_anios_soledad.txt
+
+Y eso es todo tendra el resultado por consola y el reporte en el archivo "reporte.txt".

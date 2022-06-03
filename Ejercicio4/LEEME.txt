@@ -1,0 +1,17 @@
+Proceso de Compilación.
+
+Este ejercicio se realizó en Linux Ubuntu y puede que se necesite de una diferente ejecución
+en otro sistema operativo para que funcione.
+
+Compilación y Ejecución:
+-Debea situarse en el directorio donde esta el archivo Ejercicio4.l
+Y escribir en consola:
+$ flex Ejercicio4.l (o también se puede hcer así: lex Ejercicio4.l)
+$ gcc lex.yy.c -ll
+$ ./a.out < fichero.txt
+
+Como ya se está entregando todo funcionando y si no se le hace ningun cambio, entonces,
+lo unico que tiene que hacer es ejcutarlo con la ultima instrucción:
+$ ./a.out < fichero.txt
+
+Y eso es todo tendra el resultado por consola.

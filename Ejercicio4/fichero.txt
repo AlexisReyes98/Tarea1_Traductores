@@ -1,0 +1,7 @@
+Lex es un programa para generar analizadores lexicos (en ingles scanners o lexers).
+Lex se utiliza comunmente con el programa yacc que se utiliza para generar analisis sintactico.
+Lex, escrito originalmente por Eric Schmidt y Mike Lesk, es el analizador lexico estandar en los sistemas Unix, y se incluye en el estandar de POSIX.
+Lex toma como entrada una especificacion de analizador lexico y devuelve como salida el codigo fuente implementando el analizador lexico en C.
+
+Aunque tradicionalmente se trata de software propietario, existen versiones libres de lex basadas en el codigo original de
+AT&T en sistemas como OpenSolaris y Plan 9 de los laboratorios Bell. Otra version popular de software libre de lex es Flex.
