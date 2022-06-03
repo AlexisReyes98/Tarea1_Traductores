@@ -31,6 +31,6 @@ ejemplo, el caso N=7.
 7- Programa en C usando flex que desencripte un texto encriptado (usando los valores ascii de las
 letras). Obviamente debemos recuperar el texto original. Se puede resolver el problema sin saber cuánto vale N?.
 
-8. Programa en C usando flex que, tomando como entrada el archivo de texto de la novela, Cien años de
+8- Programa en C usando flex que, tomando como entrada el archivo de texto de la novela, Cien años de
 soledad de Soledad de Gabriel García Márquez, cuente el número total de palabras de la novela, que nos diga cuantas empiezan en mayúsculas, que
 encuentre la o las palabras de mayor longitud, la ocurrencia de la palabra amor y la ocurrencia de la palabra odio.
